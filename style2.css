@@ -1,0 +1,167 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #b0d8dd, #cfddeb);
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header styles */
+header {
+    width: 100%;
+    padding: 20px 0;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header-container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.page-heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Go to Home button on the far left */
+.home-button {
+    position: absolute;
+    left: 20px;
+    
+    top: 12px;
+    width:auto;
+    transform: translateY(-50%);
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.home-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-50%) scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Main area */
+main {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px; /* Margin from header */
+}
+
+/* Login form */
+#form {
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    padding: 30px;
+    width: 100%;
+    max-width: 500px;
+    background-color: rgb(223, 221, 218);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#form h1 {
+    margin-bottom: 20px;
+}
+
+input,
+button {
+    width: 100%;
+    margin: 10px 0;
+    font-size: large;
+    border-radius: 5px;
+    padding: 10px;
+    outline: none;
+    border: 2px solid gray;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+button[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: medium;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #085bb4;
+}
+@media (max-width: 600px) {
+    .header-container {
+        justify-content: flex-end;
+        padding-right: 20px;
+    }
+
+    .page-heading {
+        font-size: 1.8rem;
+        text-align: right;
+    }
+
+    .home-button {
+        font-size: 12px;
+        padding: 6px 10px;
+        left: 10px;
+        top: 10px;
+    }
+
+    #form {
+        padding: 20px;
+        max-width: 90%;
+    }
+
+    #form h1 {
+        font-size: 1.5rem;
+    }
+
+    input,
+    button {
+        font-size: medium;
+        padding: 8px;
+    }
+
+    a {
+        font-size: small;
+    }
+}

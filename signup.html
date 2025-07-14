@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup page</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+     <header>
+    <div class="header-container">
+      <button onclick="window.location.href='index.php';" class="home-button">Home</button>
+      <h1 class="page-heading">TRAVEL GUIDE</h1>
+    </div>
+  </header>
+
+    <form action="../backend/signup.php" method="POST" id="form">
+        <h1>Signup</h1>
+        <input type="text" name="name" placeholder="Enter your name" required>
+
+        <input type="email" name="email" placeholder="Enter your email" required>
+        <input type="password" name="password" id="password" placeholder="Create password" required>
+        <input type="password" name="confirm_password" id="confirm_pass" placeholder="Confirm password" required>
+        <button type="submit">Signup</button>
+        <!-- <button type="submit">Signup with Google</button> -->
+        <p>Already have an account? <a href="login.html" target="_parent">Login</a></p>
+    </form>
+
+    <script>
+        document.getElementById("form").addEventListener("submit", function (e) {
+            const password = document.getElementById("password").value;
+            const confirm = document.getElementById("confirm_pass").value;
+
+            if (password !== confirm) {
+                e.preventDefault(); // Stop form submission
+                alert("Password does not match!");
+            }
+        });
+    </script>
+</body>
+
+</html>

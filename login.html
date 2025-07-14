@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login page</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+    <header>
+    <div class="header-container">
+      <button onclick="window.location.href='index.php';" class="home-button">Home</button>
+      <h1 class="page-heading">TRAVEL GUIDE</h1>
+    </div>
+  </header>
+    <form action="../backend/login.php" method="POST" id="form">
+        <h1>Login</h1>
+        <input type="email" name="email" placeholder="Enter your Email" required>
+        <input type="password" name="password" placeholder="Enter your password" required>
+        <button type="submit">Login</button>
+        <p>Don't have an account? <a href="signup.html" target="_parent">Signup</a></p>
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,145 @@
+{
+  "sagar": {
+    "title": "Sagar",
+    "description": "The Heart of M.P.",
+    "cityVideo": "assets/sagar.mp4",
+    "places": [
+      {
+        "name": "Lakha Banjara Lake & Chakraghat",
+        "images": [
+          "assets/lake1.jpg",
+          "assets/lake2.jpg",
+          "assets/lake3.jpg"
+        ],
+        "desc": "Lakha Banjara Lake in Sagar, Madhya Pradesh, is a beautiful and peaceful place, perfect for boating, evening walks, and taking photos. The lake was built in the 19th century and is known for its lovely sunrise and sunset views. Nearby, Chakra Ghat is a quiet spot by the lake, popular for evening walks and its calm, spiritual feel. During festivals, people gather here for prayers and cultural events. Both places are great for relaxing in nature and enjoying local traditions, making them must-visit spots for anyone traveling to Sagar.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.534682211138!2d78.73604967511788!3d23.835140178612676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3978d6afc9b177c7%3A0xc08394f720193182!2sChakraghat!5e0!3m2!1sen!2sin!4v1746333170494!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Rahatgarh Waterfall",
+        "images": [
+          "assets/rahatgarh1.jpg",
+          "assets/rahatgarh2.jpg",
+          "assets/rahatgarh3.jpg"
+        ],
+        "desc": "Rahatgarh Waterfall, near Sagar in Madhya Pradesh, is a beautiful natural place surrounded by green trees and big rocks. The waterfall looks amazing, especially in the rainy season, when water flows with full force. It's a great spot for picnics, relaxing, and enjoying nature. People love to come here to feel the cool breeze, take photos, and spend time with family and friends. The sound of the falling water makes the place feel calm and peaceful. Rahatgarh Waterfall is perfect for a short trip and is a must-visit for anyone exploring the Sagar area.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14138.367449144864!2d78.38731267731261!3d23.766796303025416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3979339a85b1538d%3A0x4e0aa883263f4f8e!2sRahatgarh%20Waterfalls%20%2F%20Bhalkund%20Jalprapat!5e0!3m2!1sen!2sin!4v1746290077946!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen'' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Gadpehra Fort",
+        "images": [
+          "assets/gadpehra1.jpg",
+          "assets/gadpehra2.jpg",
+          "assets/gadpehra3.jpg"
+        ],
+        "desc": "Gadpehra Fort and Temple, located in Sagar, Madhya Pradesh, is a historic site that reflects the rich cultural heritage of the region. The fort, surrounded by lush greenery, offers a glimpse into the architectural brilliance of ancient times. It is a peaceful place where visitors can explore the ruins and enjoy scenic views of the surrounding landscape. The temple within the fort is a spiritual spot, attracting devotees and history enthusiasts alike. Gadpehra is an ideal destination for those who love history, nature, and tranquility, making it a must-visit place in Sagar.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14589.484935989163!2d78.70801710711682!3d23.911905027819827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3978d763f0400001%3A0x664b81dc859a871d!2sGadpehra!5e0!3m2!1sen!2sin!4v1746333841592!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Eran Archaeological site",
+        "images": [
+          "assets/eran1.jpg",
+          "assets/eran2.jpg",
+          "assets/eran3.jpg"
+        ],
+        "desc": "Eran, located near Sagar in Madhya Pradesh, is an important archaeological site dating back to the Gupta period. Known for its ancient inscriptions, stone sculptures, and the iconic Varaha (boar) statue of Lord Vishnu, Eran offers a glimpse into India's early classical era. The site features intricately carved pillars and temple ruins that attract history enthusiasts and archaeology lovers. Its peaceful rural setting enhances the charm of this historical treasure.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14568.971870733907!2d78.15021019985176!3d24.09294965500816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397969b395991ad7%3A0xdf4f638a7f0f9fc6!2sEran%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1746335044397!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      }
+    ]
+  },
+  "bhopal": {
+    "title": "Bhopal",
+    "description": "The City of Lakes",
+    "cityVideo": "assets/bhopal.mp4",
+    "places": [
+      {
+        "name": "Upper Lake",
+        "images": [
+          "assets/upperlake1.jpg",
+          "assets/upperlake2.jpg",
+          "assets/upperlake3.jpg"
+        ],
+        "desc": "Upper Lake, also known as Bhojtal, is a beautiful and serene lake in Bhopal, Madhya Pradesh. It is one of the oldest man-made lakes in India, built during the 11th century by Raja Bhoj. Surrounded by lush greenery, the lake is a popular spot for boating, picnics, and enjoying peaceful sunsets. It provides a refreshing escape from the city's hustle and is a favorite destination for nature lovers and tourists visiting Bhopal.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15765.059885540093!2d77.37364789077039!3d23.243651538827464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c43f8dc961c49%3A0x7af9fbc1fb81f0fe!2sUpper%20lake%20Bhopal!5e0!3m2!1sen!2sin!4v1746333289646!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Van Vihar",
+        "images": [
+          "assets/van_vihar1.webp",
+          "assets/van_vihar2.webp",
+          "assets/van_vihar3.jpg"
+        
+        ],
+        "desc": "Van Vihar National Park, located in Bhopal, Madhya Pradesh, is a beautiful wildlife sanctuary that combines the charm of nature with the thrill of spotting animals in their natural habitat. Spread across lush greenery, it is home to a variety of animals and birds, including tigers, leopards, and deer. The park offers a peaceful environment for nature lovers and is a great place for picnics, photography, and leisurely walks. Its serene surroundings make it a must-visit destination for anyone exploring Bhopal.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14665.420372198325!2d77.35498979940303!3d23.230162014457605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c5d464727d9ab%3A0x81af796f6432b005!2sVan%20Vihar%20National%20Park%2C%20Shymala%20Hills%2C%20Bhopal%2C%20Madhya%20Pradesh%20462002!5e0!3m2!1sen!2sin!4v1746333358880!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Bhojeshwar Temple",
+        "images": [
+          "assets/bhojpur1.jpg",
+          "assets/bhojpur2.jpg",
+          "assets/bhojpur3.jpg"
+        ],
+        "desc": "Bhojeshwar Temple, located in Bhojpur near Bhopal, Madhya Pradesh, is a magnificent 11th-century temple built by King Bhoj. Dedicated to Lord Shiva, it is famous for housing one of the largest Shiva Lingams in India, standing over 18 feet tall. Though the temple remains incomplete, its massive stone architecture and serene surroundings on the banks of the Betwa River make it a significant historical and spiritual destination. Visitors are drawn to its archaeological importance, ancient craftsmanship, and peaceful ambiance.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3669.9134329661288!2d77.57724237509429!3d23.100264579119365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c3814866a0055%3A0xe0dca67e894e60f4!2sBhojeshwar%20Mahadev%20Temple!5e0!3m2!1sen!2sin!4v1746335158380!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Bhimbetka Rock Shelters",
+        "images": [
+          "assets/bhimbetka1.jpg",
+          "assets/bhimbetka2.jpg",
+          "assets/bhimbetka3.jpg"
+        ],
+        "desc": "The Bhimbetka Rock Shelters, located about 45 km from Bhopal, Madhya Pradesh, are a UNESCO World Heritage Site that showcase some of the oldest known rock art in the world. These prehistoric caves contain over 700 rock shelters with ancient paintings that date back to the Mesolithic period, offering a fascinating look into early human life. Surrounded by dense forest and sandstone hills, Bhimbetka is a must-visit destination for history lovers, archaeologists, and anyone intrigued by human origins.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68509.77744606878!2d77.60492392039092!3d22.99639890137687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c357473b13b3f%3A0xb8823ee0ae5de8e6!2sBhimbetka%20rock%20shelters!5e0!3m2!1sen!2sin!4v1746335257168!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      }
+    ]
+  },
+  "indore": {
+    "title": "Indore",
+    "description": "The cleanest city in India",
+    "cityVideo": "assets/indore.mp4",
+    "places": [
+      {
+        "name": "Rajwada Palace",
+        "images": [
+          "assets/rajwada1.jpg",
+          "assets/rajwada2.jpg",
+          "assets/rajwada3.jpg"
+        ],
+        "desc": "Rajwada Palace, located in Indore, Madhya Pradesh, is a magnificent historical structure that showcases the grandeur of Maratha architecture. Built over two centuries ago, it served as the royal residence of the Holkar dynasty. The palace is a blend of Mughal, Maratha, and French architectural styles, featuring intricate carvings, grand gateways, and a seven-story facade. It is a popular tourist attraction and a symbol of Indore's rich cultural heritage. Visitors can explore its historical significance, admire its architectural beauty, and experience the vibrant atmosphere of the surrounding area.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.264332786751!2d75.85260627508225!3d22.718414479388148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fd0a3c2422a1%3A0xb8cf3a1b62708158!2sRajwada%20Palace!5e0!3m2!1sen!2sin!4v1746333761998!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Lal Bagh Palace",
+        "images": [
+          "assets/lal_bagh1.jpg",
+          "assets/lal_bagh2.jpg",
+          "assets/lal_bagh3.jpg"
+        ],
+        "desc": "Lal Bagh Palace, located in Indore, Madhya Pradesh, is a grand and opulent palace that reflects the architectural brilliance of the Holkar dynasty. Built between 1886 and 1921, the palace showcases European-style architecture with lavish interiors, including Italian marble columns, Persian carpets, and exquisite chandeliers. The palace is surrounded by lush gardens and features a ballroom with a wooden floor mounted on springs. It is a symbol of Indore's royal heritage and a must-visit destination for history and architecture enthusiasts.",
+         "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3680.757906514061!2d75.84451927508164!3d22.700054479401157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fdaca5739ae1%3A0x4d96f8bd2eb77a91!2sLal%20Bagh%20Palace!5e0!3m2!1sen!2sin!4v1746552577446!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+        
+      },
+      {
+        "name": "Khajrana Ganesh Temple",
+        "images": [
+          "assets/khajrana1.jpg",
+          "assets/khajrana2.jpg",
+          "assets/khajrana3.jpg"
+        ],
+        "desc": "Khajrana Ganesh Temple, located in Indore, Madhya Pradesh, is one of the most famous and spiritually significant temples dedicated to Lord Ganesha. Originally built by Ahilyabai Holkar in the 18th century, the temple has grown into a grand shrine that attracts thousands of devotees daily. The idol of Lord Ganesha here is believed to be highly powerful, and people from across the country visit to seek blessings. The temple complex is clean, well-maintained, and features several smaller temples and facilities for visitors.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6563.631080446998!2d75.90176538633979!3d22.73120196157046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962e392c3e7709f%3A0xbe613e2b66216261!2sKhajrana%20Ganesh%20Mandir!5e0!3m2!1sen!2sin!4v1746335368919!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      },
+      {
+        "name": "Ralamandal Wildlife Sanctuary",
+        "images": [
+          "assets/ralamandal1.jpg",
+          "assets/ralamandal2.jpg",
+          "assets/ralamandal3.jpg"
+        ],
+        "desc": "Ralamandal Wildlife Sanctuary, located on the outskirts of Indore, Madhya Pradesh, is a serene natural haven established in 1989. Spanning approximately 5 square kilometers, it offers a rich biodiversity with species like leopards, blackbucks, sambar deer, and over 200 bird species. The sanctuary features diverse flora, including teak, bamboo, and eucalyptus trees. Visitors can enjoy trekking trails leading to an ancient hunting lodge built by the Holkars, offering panoramic views of the city. It's an ideal spot for nature lovers, birdwatchers, and those seeking a peaceful retreat.",
+        "mapEmbed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.793911403927!2d75.88908717513684!3d22.73726112670192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fc6b0e71f0e9%3A0x3752d0e8d1cb9f7b!2sRalamandal%20Wildlife%20Sanctuary!5e0!3m2!1sen!2sin!4v1746384747396!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+      }
+    ]
+  }
+}
