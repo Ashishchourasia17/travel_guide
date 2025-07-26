@@ -13,6 +13,8 @@ Contact Form – Backend support for user queries.
 
 🛠 Tech Stack
 Frontend: HTML5, CSS3, JavaScript
+Backend: PHP
+Database: MySQL (via db.php)
 Data Storage: JSON for city data
 Assets: JPG/PNG/WEBP images for places
 
